@@ -12,6 +12,5 @@ This project demonstrates a Monte Carlo simulation to forecast stock prices usin
 -Risk Metrics: The final forecasted prices are analyzed to calculate the average price, as well as VaR for 95% and 99% confidence levels.
 -Visual Output: The app displays a graph of historical stock prices and simulated future prices, along with the final price distribution and risk analysis.
 
-For more details and to try out the app, visit the live demo.
 For more details and to try out the app, visit the [live demo](https://app-project-monte-carlo-lxwzcpefkv5agnyevzsn2v.streamlit.app/).
 
